@@ -1,6 +1,6 @@
 # Real-time Currency Converter
 
-This app converts between currencies using real time data.
+Python app that converts between currencies using real time data.
 
 ![Convertor](https://github.com/sanjana707/Real-time-Currency-Converter/blob/main/Snaps/snap1.PNG)
 
