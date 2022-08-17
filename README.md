@@ -1,4 +1,4 @@
-# Real time Currency Converter
+# Real-time Currency Converter
 
 Python app that converts between currencies using real time data.
 
